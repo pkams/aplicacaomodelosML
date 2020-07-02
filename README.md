@@ -9,4 +9,4 @@ Até o momento:
 - 2 aplicações de KNN
 - 2 aplicações comparando Decision Tree e Random Forest
 - 2 aplicações de KMeans
-- 2 aplicações de PCA
+- 1 aplicação de PCA
